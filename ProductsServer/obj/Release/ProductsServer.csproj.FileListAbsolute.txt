@@ -1,0 +1,7 @@
+D:\NHAT\MVC PROJECTS\Exercices\1. Design application architecture\2. Design a distributed application\AzureDistributedAppDemo\ProductsServer\bin\Release\ProductsServer.exe.config
+D:\NHAT\MVC PROJECTS\Exercices\1. Design application architecture\2. Design a distributed application\AzureDistributedAppDemo\ProductsServer\bin\Release\ProductsServer.exe
+D:\NHAT\MVC PROJECTS\Exercices\1. Design application architecture\2. Design a distributed application\AzureDistributedAppDemo\ProductsServer\bin\Release\ProductsServer.pdb
+D:\NHAT\MVC PROJECTS\Exercices\1. Design application architecture\2. Design a distributed application\AzureDistributedAppDemo\ProductsServer\bin\Release\Microsoft.ServiceBus.dll
+D:\NHAT\MVC PROJECTS\Exercices\1. Design application architecture\2. Design a distributed application\AzureDistributedAppDemo\ProductsServer\bin\Release\Microsoft.ServiceBus.xml
+D:\NHAT\MVC PROJECTS\Exercices\1. Design application architecture\2. Design a distributed application\AzureDistributedAppDemo\ProductsServer\obj\Release\ProductsServer.exe
+D:\NHAT\MVC PROJECTS\Exercices\1. Design application architecture\2. Design a distributed application\AzureDistributedAppDemo\ProductsServer\obj\Release\ProductsServer.pdb
